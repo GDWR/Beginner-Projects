@@ -1,5 +1,6 @@
 # Simple Rock Paper Scissors with GUI
 # By GDWR
+# https://github.com/GDWR
 
 import pygame
 import random
