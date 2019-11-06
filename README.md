@@ -4,6 +4,6 @@ Basically, I'm new to coding and wanted to find something to learn from. I ended
 
 Website/Blog: https://www.codementor.io/ilyaas97/6-python-projects-for-beginners-yn3va03fs
 
-Rock, Paper, Scissors: https://repl.it/@GDWR/RPS
+Rock, Paper, Scissors: https://repl.it/@GDWR/RPS 
 Guess the number: https://repl.it/@GDWR/Guess-the-Number
 Password Generator: https://repl.it/@GDWR/Password-Generator
